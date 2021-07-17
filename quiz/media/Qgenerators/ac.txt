@@ -1,0 +1,14 @@
+type1;A monkey sits on the pan of spring scale kept in an elevator. The reading of the spring will be maximum at;Elevator accelerates upward;Elevator accelerates downward;Elevator is stationary;Elevator cable breaks and freely fall on earth;0;When Elevator move upwards then its aceleartion will be high
+type1;Acceleration produced in a body by force varies;directly as the applied force;inversly as the applied force;remain constant;none of these;0;none
+type1;Decreasing velocity per unit time called;decelaration;acceleration;uniform acceleration;none of these;0;none
+type3;A train is moving with a velocity of $1(10-20) m/s and a car is moving behind it by a velocity of $2 (10-20) m/s in same direction. The relative velocity will be;$1-$2;$2+$1;$2;$1;0;By subtraction velocity 1 and velocity 2. We can calculate relative velocity
+type3;A train is moving with a velocity of $1(10-20) m/s and a car is moving behind it by a velocity of $2(10-20) m/s in opposite direction. The relative velocity will be;$1+$2;$2-$1;$1;$2;0;By adding celocity 1 and velcity 2
+type1;The direction of acceleration is same as;velocity;speed;force;all of them;0;none
+type1;Acceleration is produced in a body by a varies of force;directly as a force;inversly as a force;independent;none of them;0;none
+type1;A monkey sits on the pan of spring scale kept in an elevator. The reading of the spring will be maximum at;Elevator accelerates upward;Elevator accelerates downward;Elevator is stationary;Elevator cable breaks and freely fall on earth;0;When Elevator move upwards then its aceleartion will be high
+type1;Acceleration produced in a body by force varies;directly as the applied force;inversly as the applied force;remain constant;none of these;0;none
+type1;Decreasing velocity per unit time called;decelaration;acceleration;uniform acceleration;none of these;0;none
+type3;A train is moving with a velocity of $1(10-20) m/s and a car is moving behind it by a velocity of $2 (10-20) m/s in same direction. The relative velocity will be;$1-$2;$2+$1;$2;$1;0;By subtraction velocity 1 and velocity 2. We can calculate relative velocity
+type3;A train is moving with a velocity of $1(10-20) m/s and a car is moving behind it by a velocity of $2(10-20) m/s in opposite direction. The relative velocity will be;$1+$2;$2-$1;$1;$2;0;By adding celocity 1 and velcity 2
+type1;The direction of acceleration is same as;velocity;speed;force;all of them;0;none
+type1;Acceleration is produced in a body by a varies of force;directly as a force;inversly as a force;independent;none of them;0;none

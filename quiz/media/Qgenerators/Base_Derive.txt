@@ -1,0 +1,32 @@
+Base and Derived Units:
+type1;The SI unit of mass is;Gram;Kilogram;Pound;milligram;0;Kilogram
+type1;The unit of light is; Watt;Joule;Candela;Volt;0;Candela
+type1;The unit of length is;meter; decimeter; centimeter; All of these; 0; All of these
+type1;The SI unit of time is; second; minute; hour; Day; 0; second
+type1;The SI unit of current is; Ampere; mili Ampere; micro Ampere; None of these; 0; Ampere
+type1;The unit of temperature is; Kelvin; degree Celsius; degree Fahrenheit; All of these; 0; All of these
+type1;In which unit is base unit; Newton; second; Joule; Watt; 0; second
+type1;In which unit is base unit; Candela; Newton; Joule; Watt; 0; Candela
+type1;In which unit is base unit; Newton; Joule; Kelvin; Watt; 0; Kelvin
+type1;In which unit is base unit; Ampere; Newton; Joule; Watt; 0; Ampere
+type1;In which unit is base unit; Newton; Kilogram; Joule; Watt; 0; Kilogram
+type1;In which unit is base unit; Meter; Newton; Joule; Watt; 0; Meter
+type1;In which unit is derived unit; Newton; Meter; Kilogram; second; 0; Newton
+type1;In which unit is derived unit; Meter; Joule; Kilogram; second; 0; Joule
+type1;In which unit is derived unit; Meter; Kilogram; Watt; second; 0; Watt
+type1;In which unit is derived unit; Volt; Meter; Kilogram; second; 0; Volt
+type1;In which unit is derived unit; Hertz; Meter; Kilogram; second; 0; Hertz
+type1;In which unit is derived unit; Radian; Meter; Kilogram; second; 0; Radian
+type1;In which unit is derived unit; Pascal; Coulomb; Ohm; All of these; 0; All of these
+type1;The unit of Force is; Newton; Pascal; Coulomb; Ohm; 0; Newton
+type1;The unit of Work is; Newton; Joule; Coulomb; Ohm; 0; Joule
+type1;The unit of Power is; Newton; Joule; Coulomb; Watt; 0; Watt
+type1;The unit of Potential difference is; Newton; Joule; Coulomb; Volt; 0; Volt
+type1;The unit of Frequency is; Newton; Joule; Hertz; Ohm; 0; Hertz
+type1;The unit of Angle is; Newton; Radian; Coulomb; Ohm; 0; Radian
+type1;The unit of Resistance is; Newton; Joule; Coulomb; Ohm; 0; Ohm
+type1;The unit of Electric charge e is; Newton; Joule; Coulomb; Ohm; 0; Coulomb
+type1;The unit of Pressure is; Newton; Pascal; Coulomb; Ohm; 0; Pascal
+
+
+

@@ -17,8 +17,9 @@ class LearningObjective_View(APIView):
         concept_name = request.data['concept_name']
         action_verb = request.data['action_verb']
         File = request.data['file']
+        txtFile = request.data['txtfile']
         LearningObjective.objects.create(
-            name=name, description=description, concept_name=concept_name, action_verb=action_verb, qgenerator=File)
+            name=name, description=description, concept_name=concept_name, action_verb=action_verb, qgenerator=File, txtfile=txtFile)
         print("saved")
         return Response({'message': 'done'})
 
@@ -53,6 +54,6 @@ class Quiz_View(APIView):
             n = int(n)
             # print(lo_id,  n)
             Content = self.generate(lo_id, n)
-        print(Content)
+        # print(Content)
 
         return Response({'Content': Content})

@@ -1,0 +1,5 @@
+type1;A body at rest or moving with uniform velocity will have acceleration;1;max;min;0;0;0
+type1;To satisfy first condition of equilibrium, if rightward forces are positive, leftward forces must be;Positive;Negative;double;halved;0;Negative
+type1;Sum of all the forces acting on a body is zero. This condition represents equilibrium's;first Condition;Seccond Condition;Third Condition;Fourth Condition;0;first Condition
+type1;If a body is in rest or in uniform velocity, it is said to be in;rest;Uniform;Equillibrium;constant Force;0;Equillibrium
+type1;To satisfy the first condition of equilibrium, if upward forces are positive then downward forces must be;Positive;Negative;double;halved;0;Negative

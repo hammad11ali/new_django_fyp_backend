@@ -1,0 +1,16 @@
+type1;Newton published his law of motion in his famous book 'principia' in;1687;1673;1678;1325;0;None;
+type1;When a body is moving on a surface, the force of friction is called;Limiting Friction;Static Friction;Dynamic Friction;Frictionaal Force;2;None
+type1;If the objects of delifferent masses move with the same velocity, then it is more delifficult to stop it;massive of them;lighter body weight;any one of them;both of them;0;None
+type1;The effect of applying force on a moving body is to change;Direction of body;speed of the body;both;None;2;None
+type1;A body is moving with uneliform Velocity;Uniform Acceleration;zero Acceleration;Maximum Acceleration;Acceleration equal to g;1;None
+type1;Linear Momentum is defines as';ma;1/2ma;mv;m;2;None
+type1;Swingging is based on;Newton 1st Law;Newton 2nd Law;Newton Third Law;All of these;3;None
+type1;if m means gases objected from rocket per second and v is the change of velocity then mv is equal to;Force;Momentum;Impulse;Energy;0;None
+type1;Change in momentum is equal to;Force;Work;Momentum;Velocity;0;None
+type1;Path of Projectile is called;Hyperbola;Trajectory;Route;cycle;1;None
+type1;If acceleration is negative then velcity is;Increasing;decreasing;Constant;None;1;None
+type1;Root out the conventional source of energy;Geothemal Energy;HydroElectric Energy;Energy from Bloomass;None of these;3;None
+type1;The velocity given to a body to go out of influence of earth gravity is known as;Escape Velocity;Terminal Velocity;Orbital Velocity;None;0;None
+type1;When a shell explodes in mid-air, its fragment fly off in;particular direction;different direction;two direction;Only one direction;0;None
+type1;Blomass include;Crop residue;Natural Vegetables;Animal dung;All of these;2;None
+type1;Ethanol is a type of;Bio fuel;Nuclear fuel;Electric Fuel;None;3;None

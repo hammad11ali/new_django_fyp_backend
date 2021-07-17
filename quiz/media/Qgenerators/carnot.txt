@@ -1,0 +1,2 @@
+type2;The efficiency of petrol engine is;25-30;$rand(5-15)-$rand(16-25);$rand(30-40)-$rand(41-50);$rand(51-60)-$rand(61-70);0;none
+type1;The heat required to raise the temperature of one mole of the substance through 1K called;molar specelific heat;specelific heat capacity;heat capacity;specific heat;0;none

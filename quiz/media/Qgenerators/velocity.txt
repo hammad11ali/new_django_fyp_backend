@@ -1,0 +1,8 @@
+type1;If speed of electron is 5×10^5m/s. how long does it takes one electron to traverse 1m;2x10^-6;1x10^-6;2x10^-7;none of them;0;None
+type1;What ratios are the distances traveled by a body falling from rest in the first, second, and third seconds in;1:3:5;1:2:3;1:4:9;1:5:11;0;None
+type3;A $1(5-20) m long train is moving with the speed $2(10-20) m/s. A train B is moving with the speed $3(10-20) m/s in opposite direction and length of train is $4(5-20) m. At which time these train crosses each other;$1+$4/$2+$3;$1-$4/$2_$3;$4-$1/$2-$3;$1+$4/$3-$2;0;(len1+len2/speed2+speed1) is formula
+type3;A body waalks to his school at a distance of $1(5-20) km with the speed of $2(5-20) km/h and walks back at a constant speed of $3(5-20) km/h . His average speed expressed in km/h;($1*$2)/($2/$1+$3/$1);($1*$1)/($2/$2+$3/$1);($3*$2)/($2/$1+$3/$1);($1*$2)/($2/$1+$3/$2);0;t1=distance/speed1;t2=distance/speed2 and average speed is distance*2/t1+t2
+type1;Two bodies of masses 20kg and 10kg are dropped from the roof.A point 20cm above the ground both the body have same;Velocity;Momentum;Kinetic Energy;none of these;0;None
+type3;Suppose the  water flows out from the pipe at $1(10-30) kgs^-1 and its velocity changes from $2(5-30)ms^-1 to zero on striking the wall then force exerted by water onwall will be;$1*$2;$1/$2;$2/$1;$2;0;Formula is flow*velocity
+type3;A train of length $1(20-30) m is moving towards north direction with speed $2(2-30) m/s and a parrot is moving towards south with the speed of $3(20-30) m/s . The time taken ti cross parrot to train;$1/$2+$3;$1/$2;$1/$3;$2/$3;0;distance/(v1+v2)
+type3;A train cover $1(20-30) km in half hour. Then time taken by it to travel ' $2(20-30) km will be;$2/$1/30;$1/$2/30;$1/30;$2/30;0;distance2/(distance1/30)
